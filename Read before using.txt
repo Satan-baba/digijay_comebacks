@@ -1,0 +1,4 @@
+This is a basic LSTM model to predict the comebacks given by digvijay in our group. 
+I have limited training data. 
+Kindly, add more sentences (responses of digya to certain to certain messages) to the "dig_comebacks.txt".
+This will improve the accuracy. The more sentences, the more accurate the model will be. Keep adding sentences
